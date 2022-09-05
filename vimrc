@@ -40,7 +40,7 @@ set foldmethod=syntax
 set foldlevel=99
 nnoremap <space> za
 
-colo materialbox
+colo orbital
 
 let g:indentLine_enabled = 1
 map <c-k>i :IndentLinesToggle<cr>
