@@ -24,6 +24,9 @@ set cursorline
 " ativa o clique do mouse para navegação pelos documentos
 set mouse=a
 
+" ativa função de copia do mouse
+set mouse=v
+
 " ativa o compartilhamento de área de transferência entre o Vim
 " e a interface gráfica
 set clipboard=unnamedplus
