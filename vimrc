@@ -43,6 +43,7 @@ set foldmethod=syntax
 set foldlevel=99
 nnoremap <space> za
 
+# Altera tema visual do vim
 colo orbital
 
 let g:indentLine_enabled = 1
