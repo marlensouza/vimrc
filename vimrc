@@ -46,6 +46,9 @@ nnoremap <space> za
 # Altera tema visual do vim
 colo orbital
 
+" Executa terminal dentro do vim
+map <C-t> :term<cr>
+
 let g:indentLine_enabled = 1
 map <c-k>i :IndentLinesToggle<cr>
 
