@@ -144,7 +144,7 @@ Entre no modo de comando  do vim e insira a seguinte linha com os módulos.
 Modo de comando do vim:  ```esc + :```
 
 
-> **Obs**: Os modulos abaixo atendem a minha necessidade, aconselho que procure ver o que de fato lhe serve.
+> **Obs**: Os modulos abaixo atendem a minha necessidade. Aconselho que procure ver o que de fato lhe serve.
 
 ```
 CocInstall @yaegassy/coc-ansible coc-browser coc-cmake coc-go coc-highlight coc-jedi coc-json coc-python coc-java coc-groovy coc-docker coc-sh coc-yaml
