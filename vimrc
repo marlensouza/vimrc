@@ -43,7 +43,7 @@ set foldmethod=syntax
 set foldlevel=99
 nnoremap <space> za
 
-# Altera tema visual do vim
+" Altera tema visual do vim
 colo orbital
 
 " Executa terminal dentro do vim
